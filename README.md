@@ -1,14 +1,11 @@
-# Pinata IPFS
-This is an InterPlanetary File System(IPFS) Project that ...
+# Pinata IPFS Viewmaster
+This is an InterPlanetary File System(IPFS) DApp that displays your pinned Pinata files and helps you upload/pin files as well.
 
 #### By Karen Axon
 
-<!-- <p align="center">
-  <img src="./src/images/collage1.png" height="500px">
-</p>
-<p align="center">
-  <img src="./src/images/governance.jpg" height="500px">
-</p> -->
+#### **https://pinataviewmaster.netlify.app/**
+
+![Video of Project](client/src/assets/videos/viewmaster-video.gif)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -16,6 +13,7 @@ This is an InterPlanetary File System(IPFS) Project that ...
 * Solidity
 * React
 * Javascript
+* Typescript
 * HTML
 * CSS
 * Bootstrap
@@ -29,25 +27,21 @@ This is an InterPlanetary File System(IPFS) Project that ...
 * Click on the green "Code" button and copy the repository URL.
 * Open your terminal and navigate to the location where you would like to clone the application.
 * Use the command _git clone https://github.com/karenaxon/pinata-IPFS.git_ to clone the repository.
-* Set up a project and get a TO DO
-* Set up an .env file in the root directory and add the following:
-  * `REACT_APP_PINATA_API_KEY=YourAPIKeyHere`
-  * `REACT_APP_PINATA_SECRET_API_KEY=YourSecretAPIKeyHere`
 * From the root directory of the application run the following commands:
   * `npm install`
-  * `npm start`
+  * `npm run start`
 * Start coding!
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 ## Using the Application
-After following the Setup/Installation steps above...
+After following the Setup/Installation steps above in your browser navigate to localhost:3000.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Known Bugs
-* None
+* Navbar links don't always work correctly.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
