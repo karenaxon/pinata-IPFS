@@ -1,9 +1,9 @@
 # Pinata IPFS Viewmaster
-This is an InterPlanetary File System(IPFS) DApp that displays your pinned Pinata files and helps you upload/pin files as well.
+This is an InterPlanetary File System(IPFS) decentralized application (DApp) that displays your Pinata pinned files and helps you upload(pin) files to Pinata Cloud. The DApp is publicly hosted in an IPFS through Pinata Cloud.
 
 #### By Karen Axon
 
-#### **https://pinataviewmaster.netlify.app/**
+#### **https://kaxon.mypinata.cloud/ipfs/QmVUiHZqaomQHyNA5tqnGtsmzBY6dei7D8kyo6N7hcpa9X/**
 
 ![Video of Project](client/src/assets/videos/viewmaster-video.gif)
 
